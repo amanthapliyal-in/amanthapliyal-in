@@ -1,19 +1,20 @@
 # Hi, I'm Aman Thapliyal 👋
 
-Software Engineer at **CoEdify Technology LLP** building AI-powered applications, scalable backend systems, and modern full-stack software.
+Software Engineer at **CoEdify Technology LLP** specializing in AI-powered applications, scalable backend systems, and modern full-stack software.
 
-## What I work on
+### Selected Work
 
-- AI Agents & LLM Applications
-- Backend Engineering
-- Full Stack Development
-- Distributed Systems & Microservices
-- Cloud-Native Applications
+- 🤖 **REVSKO** — Multi-agent AI platform for research, outreach, workflow automation, and customer engagement.
+- 📊 **Private Customizable Portfolio Management Platform** — Enterprise investment management platform with AI-assisted workflows, portfolio management, and scalable backend services.
 
-## Tech Stack
+### Technologies
 
-**Go • Java • C# • TypeScript • React • Spring Boot • ASP.NET Core • PostgreSQL • Azure • GCP • Docker**
+**Go • Java • C# • TypeScript • React • Next.js • Spring Boot • ASP.NET Core • PostgreSQL • SQL Server • Azure • GCP • Docker • Redis • RabbitMQ**
 
-## Connect
+### Interests
 
-LinkedIn → https://linkedin.com/in/amanthapliyal
+AI Engineering • Backend Systems • Distributed Systems • Cloud Native Applications • System Design
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/amanthapliyal)
