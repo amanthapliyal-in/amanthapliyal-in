@@ -1,103 +1,67 @@
 # Hi, I'm Aman Thapliyal 👋
 
-Software Engineer with experience in building scalable backend systems, AI-powered applications, and full-stack web solutions. My work focuses on designing reliable software, developing production-ready services, and integrating modern AI capabilities into enterprise applications.
+I build AI-powered applications, scalable backend systems, and modern full-stack solutions.
 
-## Professional Experience
+Currently working as a **Software Engineer at CoEdify Technology LLP**, building AI agents, distributed systems, enterprise applications, and cloud-native software using Go, Java, C#, TypeScript, React, and Azure/GCP.
 
-* Backend Application Development
-* Full Stack Development
-* AI Agent Development
-* REST API Design & Development
-* Microservices Architecture
-* Distributed Systems
-* Enterprise Software Development
-* Workflow Automation
-* Authentication & Authorization
-* Multi-Tenant Applications
-* Cloud Application Development
-* Database Design & Optimization
-* Event-Driven Systems
-* AI & LLM Integration
-* API Integrations
-* CI/CD & DevOps
+---
 
-## Technology Stack
+## What I work on
 
-### Languages
+- AI Agents & Agentic Workflows
+- Backend Engineering
+- Full Stack Development
+- Distributed Systems
+- REST APIs & Microservices
+- Enterprise Software
+- Cloud Applications
+- Workflow Automation
+- LLM Integrations
 
-* Go
-* Java
-* C#
-* TypeScript
-* JavaScript
-* SQL
+---
 
-### Frontend
+## Technologies
 
-* React
-* Next.js
+**Languages**
 
-### Backend
+Go • Java • C# • TypeScript • JavaScript • SQL
 
-* Spring Boot
-* ASP.NET Core
-* Gin
-* Fiber
-* Hibernate
-* REST APIs
-* Microservices
+**Frontend**
 
-### AI & Automation
+React • Next.js
 
-* OpenAI APIs
-* AI Agents
-* Mastra Framework
-* Model Context Protocol (MCP)
-* Prompt Engineering
-* Tool Calling
+**Backend**
 
-### Databases
+Spring Boot • ASP.NET Core • Gin • Fiber • Hibernate
 
-* PostgreSQL
-* SQL Server
-* Azure Cosmos DB
-* Gremlin
+**AI**
 
-### Cloud & DevOps
+OpenAI • Mastra • MCP • LLM Applications • AI Workflows
 
-* Microsoft Azure
-* Google Cloud Platform (GCP)
-* Docker
-* Azure DevOps
-* Git
-* CI/CD
+**Databases**
 
-### Messaging & Infrastructure
+PostgreSQL • SQL Server • Azure Cosmos DB
 
-* Redis
-* RabbitMQ
-* Gmail API
-* Apollo API
+**Cloud & DevOps**
 
-## Areas of Interest
+Azure • GCP • Docker • Azure DevOps • CI/CD • Git
 
-* Artificial Intelligence
-* Backend Engineering
-* Full Stack Development
-* Distributed Systems
-* Cloud Native Applications
-* System Design
-* Developer Tools
-* Enterprise Software Architecture
+**Infrastructure**
+
+Redis • RabbitMQ
+
+---
 
 ## Currently Exploring
 
-* Advanced Agentic AI Systems
-* Retrieval-Augmented Generation (RAG)
-* Event-Driven Architecture
-* Kubernetes
-* High-Performance Backend Systems
+- Multi-Agent Systems
+- Event-Driven Architecture
+- High Performance Backend Systems
+- Cloud Native Applications
+- AI Infrastructure
+
+---
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/amanthapliyal
+- LinkedIn → https://linkedin.com/in/amanthapliyal
