@@ -1,29 +1,103 @@
+# Hi, I'm Aman Thapliyal 👋
 
-# Hi, I'm Aman! 👋
+Software Engineer with experience in building scalable backend systems, AI-powered applications, and full-stack web solutions. My work focuses on designing reliable software, developing production-ready services, and integrating modern AI capabilities into enterprise applications.
 
-I'm a passionate Backend software developer and open-source enthusiast. I have expernice in building robust and scalable web applications, leveraging technologies like C# , Java and Azure services. I'm constantly exploring new tools and frameworks to expand my skill set and stay ahead of the curve in the ever-evolving tech landscape. Welcome to my GitHub!
+## Professional Experience
 
-## 🚀 About Me
-I'm a developer with a deep interest in Backend technologies. I enjoy solving complex real world problems and working on projects that challenge me to think differently. When I'm not coding, you'll find me learning new technologies or experimenting with new ideas.
+* Backend Application Development
+* Full Stack Development
+* AI Agent Development
+* REST API Design & Development
+* Microservices Architecture
+* Distributed Systems
+* Enterprise Software Development
+* Workflow Automation
+* Authentication & Authorization
+* Multi-Tenant Applications
+* Cloud Application Development
+* Database Design & Optimization
+* Event-Driven Systems
+* AI & LLM Integration
+* API Integrations
+* CI/CD & DevOps
 
+## Technology Stack
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanthapliyal/)
+### Languages
 
-[![Leet Code](https://img.shields.io/badge/leetcode-0A66C2?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/u/AmanThapliyal-01/)
+* Go
+* Java
+* C#
+* TypeScript
+* JavaScript
+* SQL
 
+### Frontend
 
+* React
+* Next.js
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working CoEdify Technology Pvt Ltd
+### Backend
 
-🧠 I'm currently learning Linera Algebra
+* Spring Boot
+* ASP.NET Core
+* Gin
+* Fiber
+* Hibernate
+* REST APIs
+* Microservices
 
-💬 Ask me about C#, Java, Sql
+### AI & Automation
 
-📫 How to reach me amanthpliyal2000@gmai.com
+* OpenAI APIs
+* AI Agents
+* Mastra Framework
+* Model Context Protocol (MCP)
+* Prompt Engineering
+* Tool Calling
 
+### Databases
 
-## 🛠 Skills
-C#, Java, Spring Boot, .Net, SQL server,  
+* PostgreSQL
+* SQL Server
+* Azure Cosmos DB
+* Gremlin
 
+### Cloud & DevOps
+
+* Microsoft Azure
+* Google Cloud Platform (GCP)
+* Docker
+* Azure DevOps
+* Git
+* CI/CD
+
+### Messaging & Infrastructure
+
+* Redis
+* RabbitMQ
+* Gmail API
+* Apollo API
+
+## Areas of Interest
+
+* Artificial Intelligence
+* Backend Engineering
+* Full Stack Development
+* Distributed Systems
+* Cloud Native Applications
+* System Design
+* Developer Tools
+* Enterprise Software Architecture
+
+## Currently Exploring
+
+* Advanced Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Event-Driven Architecture
+* Kubernetes
+* High-Performance Backend Systems
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/amanthapliyal
