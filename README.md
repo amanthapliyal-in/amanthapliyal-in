@@ -9,7 +9,7 @@ Software Engineer at **CoEdify Technology LLP** specializing in AI-powered appli
 
 ### Technologies
 
-**Go • Java • C# • TypeScript • React • Next.js • Spring Boot • ASP.NET Core • PostgreSQL • SQL Server • Azure • GCP • Docker • Redis • RabbitMQ**
+** Python • C# • React • Fast API • ASP.NET Core • PostgreSQL • SQL Server • Azure • GCP • Docker • Redis • RabbitMQ**
 
 ### Interests
 
